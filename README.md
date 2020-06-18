@@ -6,7 +6,9 @@ Tool that converts English (could also be used on any language using the roman a
 
 
 To install this, open up a terminal window and run:
-    git clone https://github.com/yukij8/RigaStrokeGenerator.git
+`
+git clone https://github.com/yukij8/RigaStrokeGenerator.git
+`
 Or just download the thing
 
 
