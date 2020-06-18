@@ -15,5 +15,5 @@ Or just download the thing
 ## Usage
 
 
-Open up a terminal window and run the program
+Open up a terminal window and run the program.\n
 After that, type in a sentence and it will spit out a strokeified version.
