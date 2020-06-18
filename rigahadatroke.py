@@ -5,5 +5,3 @@ sent = input().lower()
 
 sent = random.choice(abc).join(sent[i:i + random.randint(1, 9)] for i in range(0, len(sent), random.randint(1, 9)))
 print(sent)
-
-# WRITTEN BY YUKI, ITS FUCKING SHIT BUT EH IT WORKS, REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
